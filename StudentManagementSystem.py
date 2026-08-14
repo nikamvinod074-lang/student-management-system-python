@@ -141,7 +141,7 @@ while True:
                             confirm=input("Are you sure (y/n):").lower()
                             if confirm=="y":
                                 del smanagement[rollno]
-                                print("Student removed successfully")
+                                print("Student removed successfully.")
                             else:
                                 print("Delete Operation Canceled")
                         else:
