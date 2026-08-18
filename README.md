@@ -30,4 +30,4 @@ python StudentManagementSystem.py
 
 ## Author
 
-Vinod Nikam.
+Vinod Nikam
