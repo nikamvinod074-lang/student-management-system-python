@@ -1,4 +1,3 @@
-# Working on Validation...Soon it will be uploaded.
 """Student Management System
 
 1. Add Student
